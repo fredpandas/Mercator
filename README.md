@@ -56,6 +56,6 @@
    <li> Mercator souhaita qu'un point sur la Terre repéré par sa longitude $\lambda$ et sa latitude $\varphi$ (exprimées en radian) soit représenté sur sa carte par un point M de coordonnées $\left(\lambda  , y\right)$ avec avec $y=f\left(\varphi\right)$.
 Il réussit à prouver que : $$f'\left(\varphi\right)=\dfrac{1}{\cos\left(\varphi\right)},$$ pour tout $\varphi\in\left]-\dfrac{\pi}{2} , \dfrac{\pi}{2}\right[$ avec $f(0)=0$.
 </br>
-Ainsi pour représenter le parallèle de latitude n degrés, Mercator calculer $f\left(n\right)$, avec la méthode d'Euler, deux siècles auparavant celui-ci : $$f\left(n\right)=\dfrac{1}{\cos\left(1^{\circ}\right)}+\dfrac{1}{\cos\left(2^{\circ}\right)}+\cdots+\dfrac{1}{\cos\left(n^{\circ}\right)}.$$
+Ainsi pour représenter le parallèle de latitude n degrés, Mercator calcula $f\left(n\right)$, avec la méthode d'Euler, deux siècles auparavant celui-ci : $$f\left(n\right)=\dfrac{1}{\cos\left(1^{\circ}\right)}+\dfrac{1}{\cos\left(2^{\circ}\right)}+\cdots+\dfrac{1}{\cos\left(n^{\circ}\right)}.$$
 </li>
 </ul>
