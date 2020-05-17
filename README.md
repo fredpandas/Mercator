@@ -6,7 +6,7 @@
 <br>
 <b>Lien pour exécuter ces notebooks dans mybinder :</b>
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fred-pandas/Mercator/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fredpandas/Mercator/master)
 <br>
 :white_square_button:<b> Préambule :</b>
 <ul>
