@@ -36,7 +36,7 @@
 
 :white_square_button:<b>Mercator un révolutonnaire : </b>
 <ul>
-  <li>Gérard Mercator (1512-1594) est un mathématicien géographe flamand qui fut l'inventeur d'une carte permettant de représenter les routes à cap constant, appelées loxodromies, en des segment de droite.
+  <li>Gérard Mercator (1512-1594) est un mathématicien géographe flamand qui fut l'inventeur d'une carte permettant de représenter les routes à cap constant, appelées loxodromies, en des segments de droites.
    <table>
      <tr>
        <td>Une carte de Mercator</td>
